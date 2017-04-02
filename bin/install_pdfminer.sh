@@ -4,6 +4,8 @@ cd `dirname $0`
 
 function log_info() { echo "$1";}
 
+#sudo pip3 install pyyaml
+
 #cd ../tmp/
 #tar xzf pdfminer3k-1.3.1.tar.gz > /dev/null
 #cd pdfminer3k-1.3.1/
